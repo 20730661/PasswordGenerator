@@ -53,7 +53,7 @@ def main():
     print("")
     print(f"your password with {password_length} characters:")
     print(password_output)
-    print("***please record your password somewhere as it is not recorrded.***")
+    print("***please record your password somewhere as it is not recorded.***")
 
 if __name__ == "__main__":
     main()
